@@ -1,0 +1,9 @@
+openai-agents
+openai
+langchain
+chromadb
+pypdf
+sentence-transformers
+streamlit
+# sqlite3
+tiktoken
